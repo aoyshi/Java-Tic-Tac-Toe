@@ -1,13 +1,3 @@
- /**
- * Write a program that plays tic-tac-toe. The tic-tac-toe game is played on a 
- * 3 × 3 grid. The game is played by two players, who take turns. The first player 
- * marks moves with a circle, the second with a cross. The player who has formed a 
- * horizontal, vertical, or diagonal sequence of three marks wins. Your program 
- * should draw the game board, ask the user for the coordinates of the next mark, 
- * change the players after every successful move, and pronounce the winner.
-*/
-package Ch6A_Arrays;
-
 import java.util.Scanner;
 
 public class TicTacToe {
@@ -122,7 +112,7 @@ public class TicTacToe {
 	    }
     
   
-  public static void mainx(String[] args) {
+  public static void main(String[] args) {
     
     int[][] grid = new int[3][3];
     int foundWinner = 0;
