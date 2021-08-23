@@ -12,6 +12,6 @@ play against each other. After the end of the game the statistics of each one wi
 For now, run the .java file as a simple java class in NetBeans IDE 8.1 or Eclipse and play it on the console.
 
 ![Program Instance SnapShot](https://github.com/aoyshi/Java-Tic-Tac-Toe/blob/master/program%20snapshot.png)
-![Program Game Frame](https://github.com/aoyshi/Java-Tic-Tac-Toe/blob/master/game%20frame.jpg)
-![Program Announce Winner](https://github.com/aoyshi/Java-Tic-Tac-Toe/blob/master/announce%20winner.jpg)
-![Program Statistics](https://github.com/aoyshi/Java-Tic-Tac-Toe/blob/master/statistics.jpg)
+![Program Game Frame](https://github.com/nikopoly/Java-Tic-Tac-Toe/blob/master/game%20frame.jpg)
+![Program Announce Winner](https://github.com/nikopoly/Java-Tic-Tac-Toe/blob/master/announce%20winner.jpg)
+![Program Statistics](https://github.com/nikopoly/Java-Tic-Tac-Toe/blob/master/statistics.jpg)
