@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class TicTacToe {
-  
+  /*
   public static int getValidInt(String prompt) {
     
     Scanner in = new Scanner(System.in);  
@@ -110,10 +110,12 @@ public class TicTacToe {
 	        }
 
 	    }
-    
+*/
   
   public static void main(String[] args) {
-    
+
+    new Gui();
+/*
     int[][] grid = new int[3][3];
     int foundWinner = 0;
     
@@ -149,7 +151,7 @@ public class TicTacToe {
     
     if(foundWinner == 0)
       System.out.println("It's a draw!");
- 
+*/
   }//end main
  }//end class
 
