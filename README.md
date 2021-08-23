@@ -9,7 +9,7 @@ to see them, log out from the game or proceed further in the game. If the player
 then the second player has to verify himself by log in in the game. As soon as do that then the two players can
 play against each other. After the end of the game the statistics of each one will be update.
 
-For now, run the .java file as a simple java class in NetBeans IDE 8.1 or Eclipse and play it on the console.
+For now, run the TicTacToe.java file as a simple java class in NetBeans IDE 8.1 or Eclipse and play it on the console.
 
 ![Program Game Frame](https://github.com/nikopoly/Java-Tic-Tac-Toe/blob/master/game%20frame.jpg)
 ![Program Announce Winner](https://github.com/nikopoly/Java-Tic-Tac-Toe/blob/master/announce%20winner.jpg)
